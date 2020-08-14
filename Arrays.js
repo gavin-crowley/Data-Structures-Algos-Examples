@@ -7,7 +7,7 @@ daysOfWeek = new Array('Sunday', 'Monday', 'Tuesday');
 let daysOfWeek = [];
 let daysOfWeek = ['Sunday', 'Monday', 'Tuesday']
 
-//asdasdasdasdasdadasda
+//asdasdawewerwerwqweqwewq
 
 // Accessing elements and iterating an array
 
