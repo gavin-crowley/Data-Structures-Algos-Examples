@@ -1,0 +1,22 @@
+
+
+
+Beau Carnes Course
+https://www.youtube.com/watch?v=t2CEgPsws3U
+
+Stacks 
+- last in first out
+-pile of books
+-back button internet history
+
+-palindrome example
+-
+
+Sets
+Queues & Priority Queues
+Binary Search Tree
+Hash Tables
+Linked List
+Trie
+Heap
+Graphs
